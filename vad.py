@@ -17,7 +17,7 @@ print("\nSelect microphone:")
 for mi, mic in enumerate(mic_list):
     print("[{}]: {}".format(mi, mic.name))
     
-print("\nInput a number")
+print("\nInput a number:")
 mic_index = int(input())
 
 try:
