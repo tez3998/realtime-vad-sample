@@ -1,5 +1,5 @@
 # realtime_vad_sample
-A simple sample code of real-time voice activity detection using webrtcvad.
+Sample code of real-time voice activity detection using webrtcvad.
 
 # Environment
 This worked on Windows 10 and Ubuntu 18.04.
