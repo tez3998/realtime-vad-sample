@@ -1,4 +1,4 @@
-# realtime_vad_sample
+# realtime-vad-sample
 Sample code of real-time voice activity detection using webrtcvad.
 
 # Environment
