@@ -6,18 +6,10 @@ This worked on Windows 10/11 and Ubuntu 18.04.
 I think this will work on macOS.
 
 # Installation
-## numpy
 ```bash
-pip install numpy
+pip install -r requirements.txt
 ```
-### SoundCard
-```bash
-pip install SoundCard
-```
-### webrtcvad
-```bash
-pip install webrtcvad
-```
+
 # Usage
 ```bash
 python vad.py
